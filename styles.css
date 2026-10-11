@@ -1,3 +1,7 @@
 .inline-display {
  display: inline;
 }
+
+.banner {
+    background-image: url("bg.jpg");
+}
