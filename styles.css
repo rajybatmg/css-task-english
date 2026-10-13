@@ -51,13 +51,13 @@ body {
 .right-section h1 {
     font-size: 25px;
     font-weight: 500;
-    color: #2a4555;
     margin: 0 0 12px;
 }
 
 .subtitle {
     font-size: 16px;
-    color: #7b8a92;
+    opacity: 0.5;
+    margin-top: 18xpx;
     margin-bottom: 45px;
 }
 
@@ -83,6 +83,11 @@ body {
 
 .linkedin {
     background-color: #0076b5;
+}
+.social-icon {
+    margin-right: 4px;
+    height: 13px;
+    width: 13px;
 }
 
 .social-buttons a:hover {
